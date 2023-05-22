@@ -1,0 +1,57 @@
+#month{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 5px 15px;
+    margin-top: 10px;
+    margin-left: 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#year{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 5px 17px;
+    margin-top: 10px;
+    margin-left: 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#IDfac{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin-top: 10px;
+    margin-left: 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#nameItem{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin-top: 10px;
+    margin-left: 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+input::placeholder{
+    color: white;
+}
